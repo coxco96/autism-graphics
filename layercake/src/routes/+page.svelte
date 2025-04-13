@@ -6,7 +6,7 @@
 	import AxisX from './_components/AxisX.svelte';
 	import AxisY from './_components/AxisY.svelte';
 
-	import points from './_data/points.csv';
+	import points from './_data/google-trends-do-vaccines-cause-autism.csv';
 
 	const xKey = 'myX';
 	const yKey = 'myY';
